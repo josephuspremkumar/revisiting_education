@@ -1,7 +1,7 @@
 # Revisiting Education
 
 ##What:
-Open-source attempt at re-designing education for children.
+Open-source attempt at redesigning education for children.
 
 ##Why:
 Because, we can do better.
